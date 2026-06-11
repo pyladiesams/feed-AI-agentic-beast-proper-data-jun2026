@@ -1,8 +1,8 @@
-# { WORKSHOP NAME } 
+# Feed an AI-agentic beast with proper data 
 ### Presentation: [{ YOUR PRESENTATION NAME }](workshop/presentation_template.pdf)
 
 ## Workshop description
-Describe why your topic is important and what you want to share with your audience
+During the workshop you will learn how to prepare your data so your agent isn't flying blind. We'll work through examples, cleaning and contextualizing tabular data, chunking documents intelligently and building habits for reviewing AI-generated code with confidence.
 
 ## Requirements
 * PyLadies Amsterdam uses [uv](https://docs.astral.sh/uv/) for dependency management
@@ -35,10 +35,10 @@ To get started, open the `pyproject.toml` file and set the required Python versi
 After you have specified the Python version, you can create a virtual environment with `uv venv` and add packages with `uv add <package>`. Before the workshop, you can generate a requirements.txt file, which is needed e.g. for running code in Google Colab, by running `uv export > requirements.txt`.
 
 ## Video record
-Re-watch [this YouTube stream](link)
+Re-watch [this YouTube stream](https://www.youtube.com/live/2EnszJLzzAc)
 
 ## Credits
-This workshop was set up by @pyladiesams and {your GitHub handler}
+This workshop was set up by @pyladiesams and @jessica-eggen
 
 ## Appendix
 ### Pre-Commit Hooks
