@@ -1,10 +1,15 @@
 [project]
-name = "workshoptopic-mmmyyyy"
+name = "feed-AI-agentic-beast-proper-data-jun2026"
 version = "0.1.0"
-description = "Add your description here"
+description = "In this hands-on workshop we’ll work through four real-world scenarios in Python: finding the minimum viable context for sales questions, keeping frequency signals intact when summarizing support tickets at scale, selecting the right columns for churn analysis on a wide customer table, and extracting structured fields from messy product listings with validation you can trust. You’ll write and discuss code together — practical patterns you can take straight back to work."
 readme = "README.md"
-requires-python = ">=3.8"
-dependencies = []
+requires-python = ">=3.10"
+dependencies = [
+    "openai>=1.40.0",
+    "pandas>=2.0.0",
+    "numpy>=1.26.0",
+    "ipykernel>=6.0.0",
+]
 
 [tool.uv]
 dev-dependencies = [
