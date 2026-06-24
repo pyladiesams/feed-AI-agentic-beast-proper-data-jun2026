@@ -1,5 +1,5 @@
 # Feed an AI-agentic beast with proper data 
-### Presentation: Feed an AI-agentic beast with proper data (workshop\presentation.pdf)
+### Presentation: Feed an AI-agentic beast with proper data (https://github.com/pyladiesams/feed-AI-agentic-beast-proper-data-jun2026/blob/main/workshop/presentation.pdf)
 
 ## Workshop description
 During the workshop you will learn how to prepare your data so your agent isn't flying blind. We'll work through examples, such as:
