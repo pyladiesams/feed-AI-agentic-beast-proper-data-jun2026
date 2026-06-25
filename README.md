@@ -41,8 +41,6 @@ To get started, open the `pyproject.toml` file and set the required Python versi
 After you have specified the Python version, you can create a virtual environment with `uv venv` and add packages with `uv add <package>`. Before the workshop, you can generate a requirements.txt file, which is needed e.g. for running code in Google Colab, by running `uv export --no-dev > requirements.txt`. -->
 
 ### OpenAI API key
-Your API key can be requested here.
-
 The key will only be available during the workshop. If you want to follow the workshop after, please request your own API key.
 
 ## Video record
@@ -50,8 +48,3 @@ Re-watch [this YouTube stream](https://www.youtube.com/live/2EnszJLzzAc)
 
 ## Credits
 This workshop was set up by @pyladiesams and @jessica-eggen
-
-<!-- ## Appendix
-### Pre-Commit Hooks
-
-To ensure our code looks beautiful, PyLadies uses pre-commit hooks. You can enable them by running `pre-commit install`. You may have to install `pre-commit` first, using `uv sync`, `uv pip install pre-commit` or `pip install pre-commit`. -->
